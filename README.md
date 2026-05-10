@@ -1,19 +1,19 @@
-`# File Organizer
+# File Organizer
 
-A simple Python project that automatically organizes files into folders based on their extensions.
+A simple Python project that automatically organizes files into folders based on their file extensions.
 
 ## Features
 
-- Organizes Images, Music, Documents, Videos, Archives, and Code files
-- Automatically creates folders
-- Displays summary after organizing
-- Uses Object-Oriented Programming (OOP)
+- Organizes files into categories (Images, Music, Documents, Videos, Archives, Code)
+- Automatically creates required folders
+- Displays a summary of organized files
+- Built using Object-Oriented Programming (OOP)
 
 ## Technologies Used
 
 - Python
-- os module
-- shutil module
+- os (built-in module)
+- shutil (built-in module)
 
 ## How to Run
 
